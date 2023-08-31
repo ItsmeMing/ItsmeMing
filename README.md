@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/ItsmeMing/ItsmeMing/assets/52628947/83d8e559-f8ab-42b4-9be8-f6d778452613)### Hi there 👋
 <h2>My tech stack:</h2>
 <table style="width: 100%;">
   <tr>
@@ -58,6 +58,9 @@
       </a>
       <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/>
+      </a>
+      <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/10342521?s=48&v=4" alt="chartjs" width="40" height="40"/>
       </a>
     </td>
     <td align="center" style="vertical-align: top;">
