@@ -1,5 +1,5 @@
 # Hi there 👋
-<h2 style="font-size: 40px;">
+<h3 style="font-size: 40px;">
   My tech stack
   <br/>
   <table style="width: 100%;">
