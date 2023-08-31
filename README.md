@@ -1,6 +1,9 @@
 # Hi there 👋
 <h2 style="font-size: 40px;">
-  My tech stack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <pre>
+    My tech stack
+    
+  </pre>
   <table style="width: 100%;">
     <tr>
       <th width="200px">Languages</th>
