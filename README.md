@@ -1,26 +1,11 @@
-<style>
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 25%;
-}
-</style>
-
 ### Hi there 👋
   <h2>My tech stack:</h2>
   <table>
     <tr>
-      <th>Languages</th>
-      <th>Frameworks</th>
-      <th>Libraries</th>
-      <th>Tools</th>
+      <th width="25%">Languages</th>
+      <th width="25%">Frameworks</th>
+      <th width="25%">Libraries</th>
+      <th width="25%">Tools</th>
     </tr>
     <tr>
       <td>
