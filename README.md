@@ -38,13 +38,13 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
-  </p>
+  </h4>
   <h4>
     Libraries:
     <a href="https://pugjs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
     </a> 
-  </p>
+  </h4>
   <h4>
     Databases:
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
-  </p>
+  </h4>
 
 <!--
 **ItsmeMing/ItsmeMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
