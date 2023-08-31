@@ -2,11 +2,11 @@
 <h2>My tech stack:</h2>
 <table style="width: 100%;">
   <tr>
-    <th width="500px">Languages</th>
-    <th width="500px">Frameworks</th>
-    <th width="500px">Libraries</th>
-    <th width="500px">Databases</th>
-    <th width="500px">Tools</th>
+    <th width="400px">Languages</th>
+    <th width="400px">Frameworks</th>
+    <th width="400px">Libraries</th>
+    <th width="400px">Databases</th>
+    <th width="400px">Tools</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
