@@ -1,5 +1,5 @@
 # Hi there 👋
-**<font size="5">your_text_here</font>**
+**My tech stack**
 </br>
 <table style="width: 100%;">
   <tr>
