@@ -1,5 +1,5 @@
 # Hi there 👋
-<h2 style="border-bottom: 0;">My tech stack</h2>
+<span style="font-size: 20px;">My tech stack</span>
 <table style="width: 100%;">
   <tr>
     <th width="200px">Languages</th>
