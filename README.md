@@ -1,14 +1,11 @@
 ### Hi there 👋
 <h2>My tech stack:</h2>
 <table style="width: 100%;">
-  <style>
-    table {width: 100%;}
-  </style>
   <tr>
-    <th width="25%">Languages</th>
-    <th width="25%">Frameworks</th>
-    <th width="25%">Libraries</th>
-    <th width="25%">Tools</th>
+    <th width="500px">Languages</th>
+    <th width="500px">Frameworks</th>
+    <th width="500px">Libraries</th>
+    <th width="500px">Tools</th>
   </tr>
   <tr>
     <td style="vertical-align: top;">
