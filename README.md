@@ -1,3 +1,18 @@
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
+</style>
+
 ### Hi there 👋
   <h2>My tech stack:</h2>
   <table>
@@ -69,21 +84,6 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
   </h4>
-
-<style>
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 25%;
-}
-</style>
 
 <!--
 **ItsmeMing/ItsmeMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
