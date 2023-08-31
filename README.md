@@ -1,9 +1,7 @@
 ### Hi there 👋
   <h2>My tech stack:</h2>
   <div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <h4>Languages: </h4>
-    </div>
+    <div style="flex: 1;">Languages: </div>
     <div style="flex: 1;">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
