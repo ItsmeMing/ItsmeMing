@@ -53,6 +53,9 @@
       <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer">
         <img src="https://pinia.vuejs.org/logo.svg" width="40" height="40"/>
       </a>
+      <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="40" height="40"/>
+      </a>
     </td>
     <td align="center" style="vertical-align: top;">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
