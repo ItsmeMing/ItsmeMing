@@ -1,5 +1,6 @@
 ### Hi there 👋
   <h2>My tech stack:</h2>
+  | Languages:  | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
   <div style="display: flex; align-items: center;">
     <div style="flex: 1;">Languages: </div>
     <div style="flex: 1; display: flex; justify-content: flex-start;">
