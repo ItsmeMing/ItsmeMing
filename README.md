@@ -1,6 +1,6 @@
 # Hi there 👋
 <h2 style="font-size: 40px;">
-  <span>My tech stack</span>
+  <div>My tech stack</div>
   <table style="width: 100%;">
     <tr>
       <th width="200px">Languages</th>
