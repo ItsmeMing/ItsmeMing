@@ -49,7 +49,10 @@
     <td align="center" style="vertical-align: top;">
       <a href="https://pugjs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-      </a> 
+      </a>
+      <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer">
+        <img src="https://pinia.vuejs.org/logo.svg" width="40" height="40"/>
+      </a>
     </td>
     <td align="center" style="vertical-align: top;">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
