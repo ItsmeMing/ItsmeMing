@@ -1,5 +1,5 @@
-![image](https://github.com/ItsmeMing/ItsmeMing/assets/52628947/83d8e559-f8ab-42b4-9be8-f6d778452613)### Hi there 👋
-<h2>My tech stack</h2>
+# Hi there 👋
+<h2 style="border-bottom: 0;">My tech stack</h2>
 <table style="width: 100%;">
   <tr>
     <th width="200px">Languages</th>
