@@ -1,5 +1,5 @@
 ### Hi there 👋
-  <h3 align="center">My tech stack:</h3>
+  <h2>My tech stack:</h2>
   <h4>
     Languages:
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
