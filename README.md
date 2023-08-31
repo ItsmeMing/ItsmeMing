@@ -1,6 +1,9 @@
 ### Hi there 👋
 <h2>My tech stack:</h2>
 <table style="width: 100%;">
+  <style>
+    table {width: 100%;}
+  </style>
   <tr>
     <th width="25%">Languages</th>
     <th width="25%">Frameworks</th>
