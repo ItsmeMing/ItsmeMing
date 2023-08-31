@@ -1,6 +1,6 @@
 ### Hi there 👋
   <h2>My tech stack:</h2>
-  <div>
+  <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h4>Languages: </h4>
     </div>
