@@ -1,5 +1,5 @@
 # Hi there 👋
-**My tech stack**
+**Tech that I'm using/had experienced**
 </br>
 <table style="width: 100%;">
   <tr>
