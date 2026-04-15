@@ -49,6 +49,9 @@
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
       </a>
+       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/>
+      </a>          
     </td>
     <td align="center" style="vertical-align: top;">
       <a href="https://pugjs.org" target="_blank" rel="noreferrer">
